@@ -1,4 +1,4 @@
-## The More you learn the more you know you don't know so keep on learning 
+## The More you know the more you know you don't know so keep on learning 
 
 <!--
 **SamoraMachel/SamoraMachel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
