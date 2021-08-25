@@ -4,7 +4,9 @@
   <img height="170", align="left" src="https://github-readme-stats.vercel.app/api?username=SamoraMachel&show_icons=true&theme=radical" />
   <img height="170", align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamoraMachel&langs_count=8&layout=compact&theme=buefy&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
-
+<div>
+  <img align="center" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SamoraMachel&theme=radical" alt="Samora Machel" />
+</div>
 <!--
 **SamoraMachel/SamoraMachel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
