@@ -1,8 +1,8 @@
 ## The More you know the more you know you don't know so keep on learning 
 
 <div>
-  <img width="46%", align="left" src="https://github-readme-stats.vercel.app/api?username=SamoraMachel&show_icons=true&theme=radical" />
-  <img align="center" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamoraMachel&theme=radical" alt="Samora Machel" />
+  <img width="46%", align="left" src="https://github-readme-stats.vercel.app/api?username=SamoraMachel&show_icons=true" />
+  <img align="center" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamoraMachel" alt="Samora Machel" />
   
 </div>
 <div>
