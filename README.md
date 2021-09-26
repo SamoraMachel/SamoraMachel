@@ -1,12 +1,12 @@
 ## The More you know the more you know you don't know so keep on learning 
 
 <div>
-  <img width="46%", align="left" src="https://github-readme-stats.vercel.app/api?username=SamoraMachel&theme=solarized-light&show_icons=true" />
-  <img align="center" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamoraMachel&theme=solarized-light" alt="Samora Machel" />
+  <img width="46%", align="left" src="https://github-readme-stats.vercel.app/api?username=SamoraMachel&show_icons=true" />
+  <img align="center" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamoraMachel&theme=light" alt="Samora Machel" />
   
 </div>
 <div>
-  <img width="46%", align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamoraMachel&hide=html,shell&langs_count=10&layout=compact&theme=solarized-light" />
+  <img width="46%", align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamoraMachel&hide=html,shell&langs_count=10&layout=compact&theme=light" />
 </div>
 <!--
 **SamoraMachel/SamoraMachel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
